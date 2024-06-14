@@ -1,0 +1,1 @@
+Esta aplicación web facilita el registro y la gestión de datos de animales salvajes en investigación. Los usuarios pueden agregar detalles como nombres, edad estimada y comentarios. Además, tiene funciones que pueden reproducir los sonidos distintivos de cada especie y mostrar detalles adicionales de manera interactiva.
